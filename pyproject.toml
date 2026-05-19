@@ -1,0 +1,13 @@
+[project]
+name = "city-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "jupyterlab>=4.5.7",
+    "matplotlib>=3.10.9",
+    "pandas>=3.0.3",
+    "seaborn>=0.13.2",
+    "statsbombpy>=1.18.0",
+]
